@@ -1,7 +1,4 @@
-  <br />
-  <br />
-
-  <h2 align="center">Gastro - Responsive Fast Food Website</h2>
+<h2 align="center">Gastro - Responsive Fast Food Website</h2>
 
  Gastro is an exceptionally responsive fast food website designed for optimal performance on all devices.  <br />Crafted with HTML, CSS, and JavaScript, it delivers a seamless user experience across various platforms.
 
