@@ -1,5 +1,4 @@
-Foodie. - Supper delicious Burger in town!
-
+Gastro - Supremely Delicious Burgers in Town!
 
 
 #---------- HEADER ----------#
@@ -336,7 +335,7 @@ placeholder = Message
 
 Book a Table
 
-&copy; 2022 codewithsadee All Rights Reserved.
+&copy; 2023 alphaotuken All Rights Reserved.
 
 
 
