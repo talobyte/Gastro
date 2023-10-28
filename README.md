@@ -2,7 +2,7 @@
 
  Gastro is an exceptionally responsive fast food website designed for optimal performance on all devices.  <br />Crafted with HTML, CSS, and JavaScript, it delivers a seamless user experience across various platforms.
 
-  <a href="https://alphaotuken.github.io/Gastro/"><strong>➥ Live Demo</strong></a>
+  <a href="https://talobyte.github.io/Gastro/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,13 +21,13 @@ To run **Gastro** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/alphaotuken/gastro.git
+sudo git clone https://github.com/talobyte/gastro.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alphaotuken/gastro.git
+git clone https://github.com/talobyte/gastro.git
 ```
 
 ### Contact
